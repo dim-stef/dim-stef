@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have (un)successfully bootstrapped 2 startups, currently going on my 3rd shot**
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
