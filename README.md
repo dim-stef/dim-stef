@@ -21,6 +21,8 @@
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React project structure](https://dimitrisstefanakis.medium.com/react-project-structure-3a7a95f557b8?source=rss-9dbcc2bed197------2)
+- [The 80 / 20 rule for software developers](https://dimitrisstefanakis.medium.com/the-80-20-rule-for-software-developers-c28200651872?source=rss-9dbcc2bed197------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
