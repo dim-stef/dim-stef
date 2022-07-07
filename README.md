@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=Profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" /> </p>
 
-- 🔭 I’m currently working on [Troosh](http://troosh.app/)
+- 🔭 I’m currently working on [ThriftMVP](https://thriftmvp.com/)
 
 - 🌱 I’m currently learning **Nest.js / Machine learning / Ethereum contracts / Kubernetes**
 
