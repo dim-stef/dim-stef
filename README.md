@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.dimitrisstefanakis.dev/](https://www.dimitrisstefanakis.dev/)
 
-- ⚡ Fun fact **I have (un)successfully bootstrapped 2 startups, currently going on my 3rd shot**
+- ⚡ Fun fact **I have (un)successfully bootstrapped 3 startups, currently going on my 4th shot**
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
