@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, django and anything frontend related!**
 
-- 📫 How to reach me **jimstef@outlook.com**
+- 📫 How to reach me **dimitrisstefanakis1@gmail.com**
 
 - 📄 Know about my experiences [https://www.dimitrisstefanakis.dev/](https://www.dimitrisstefanakis.dev/)
 
