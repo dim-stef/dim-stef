@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://dimitrisstefanakis.medium.com/](https://dimitrisstefanakis.medium.com/)
 
-- 💬 Ask me about **react, django and anything frontend related!**
+- 💬 Ask me about **react, django!**
 
 - 📫 How to reach me **dimitrisstefanakis1@gmail.com**
 
