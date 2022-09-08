@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ThriftMVP](https://thriftmvp.com/)
 
-- 🌱 I’m currently learning **Remix / Ethereum contracts / Kubernetes**
+- 🌱 I’m currently learning **Remix / Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
 
