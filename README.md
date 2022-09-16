@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Remix / Kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
+- 👨‍💻 All (not really all) of my projects are available at [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
 
 - 📝 I regularly write articles on [https://dimitrisstefanakis.medium.com/](https://dimitrisstefanakis.medium.com/)
 
