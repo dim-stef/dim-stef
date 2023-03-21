@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=Profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" /> </p>
 
-- 🔭 I’m currently working on [ThriftMVP](https://thriftmvp.com/)
+- 🔭 I’m currently working on [ThriftMVP](https://thriftmvp.com/) and [senec.ai](https://www.senec.ai/)
 
 - 🌱 I’m currently learning **Remix / Kubernetes**
 
