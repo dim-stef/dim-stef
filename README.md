@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm Dimitris Stefanakis</h1>
-<h3 align="center">A passionate full stack developer from Athens, Greece</h3>
+<h1 align="center">Hi 👋, I'm Jim Stefanakis</h1>
+<h3 align="center">Founder of Senec, Startup Development Studio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=Profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" /> </p>
 
-- 🔭 I’m currently working on [ThriftMVP](https://thriftmvp.com/) and [senec.ai](https://www.senec.ai/)
+- 🔭 I’m currently building on [senec.ai](https://www.senec.ai/) and [Senec Studio](https://www.senec.studio/)
 
-- 🌱 I’m currently learning **Remix / Kubernetes**
+- 👨‍💻 (Outdated personal website) [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
 
-- 👨‍💻 All (not really all) of my projects are available at [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
+- 📝 I have wrote some articles on [https://dimitrisstefanakis.medium.com/](https://dimitrisstefanakis.medium.com/)
 
-- 📝 I regularly write articles on [https://dimitrisstefanakis.medium.com/](https://dimitrisstefanakis.medium.com/)
+- 💬 Ask me about **startups**
 
-- 💬 Ask me about **react, django!**
+- 📫 How to reach me **jim@senec.ai**
 
-- 📫 How to reach me **dimitrisstefanakis1@gmail.com**
-
-- 📄 Know about my experiences [https://www.dimitrisstefanakis.dev/](https://www.dimitrisstefanakis.dev/)
-
-- ⚡ Fun fact **I have (un)successfully bootstrapped 3 startups, currently going on my 4th shot**
+- ⚡ Fun fact **I built over 10 startups since 2017**
 
 # Blogs posts
 <!-- BLOG-POST-LIST:START -->
