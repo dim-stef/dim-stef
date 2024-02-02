@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimstefanakis&label=Profile%20views&color=0e75b6&style=flat" alt="dimstefanakis" /> </p>
 
-- 🔭 I’m currently building on [senec.ai](https://www.senec.ai/) and [Senec Studio](https://www.senec.studio/)
+- 🔭 I’m currently building [senec.ai](https://www.senec.ai/) and [Senec Studio](https://www.senec.studio/)
 
 - 👨‍💻 (Outdated personal website) [https://www.dimitrisstefanakis.dev/projects](https://www.dimitrisstefanakis.dev/projects)
 
